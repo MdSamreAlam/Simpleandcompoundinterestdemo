@@ -1,0 +1,7 @@
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestCalculations\bin\Debug\SimpleInterestCalculations.exe.config
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestCalculations\bin\Debug\SimpleInterestCalculations.exe
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestCalculations\bin\Debug\SimpleInterestCalculations.pdb
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestCalculations\obj\Debug\SimpleInterestCalculations.csprojAssemblyReference.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestCalculations\obj\Debug\SimpleInterestCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestCalculations\obj\Debug\SimpleInterestCalculations.exe
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestCalculations\obj\Debug\SimpleInterestCalculations.pdb

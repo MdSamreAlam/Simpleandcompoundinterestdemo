@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iq0guZ5NVskgBSeEuRsU52lokJqe7LD+gxWdh12qwgx+WblAeysYDgBLr4U9mNx6fFeVTt2Q4P5nDd9uTLjlDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arpita Nayak\\source\\repos\\SimpleInterestcalculation\\SimpleInterestcalculation\\SimpleInterestcalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arpita Nayak\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Arpita Nayak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

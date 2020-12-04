@@ -1,0 +1,13 @@
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\bin\Debug\netcoreapp3.1\SimpleInterestcalculation.exe
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\bin\Debug\netcoreapp3.1\SimpleInterestcalculation.deps.json
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\bin\Debug\netcoreapp3.1\SimpleInterestcalculation.runtimeconfig.json
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\bin\Debug\netcoreapp3.1\SimpleInterestcalculation.runtimeconfig.dev.json
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\bin\Debug\netcoreapp3.1\SimpleInterestcalculation.dll
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\bin\Debug\netcoreapp3.1\SimpleInterestcalculation.pdb
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\obj\Debug\netcoreapp3.1\SimpleInterestcalculation.csprojAssemblyReference.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\obj\Debug\netcoreapp3.1\SimpleInterestcalculation.AssemblyInfoInputs.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\obj\Debug\netcoreapp3.1\SimpleInterestcalculation.AssemblyInfo.cs
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\obj\Debug\netcoreapp3.1\SimpleInterestcalculation.csproj.CoreCompileInputs.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\obj\Debug\netcoreapp3.1\SimpleInterestcalculation.dll
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\obj\Debug\netcoreapp3.1\SimpleInterestcalculation.pdb
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\SimpleInterestcalculation\obj\Debug\netcoreapp3.1\SimpleInterestcalculation.genruntimeconfig.cache

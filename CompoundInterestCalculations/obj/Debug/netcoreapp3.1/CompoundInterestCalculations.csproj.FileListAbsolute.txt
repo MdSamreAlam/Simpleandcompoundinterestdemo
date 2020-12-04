@@ -1,0 +1,13 @@
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\bin\Debug\netcoreapp3.1\CompoundInterestCalculations.exe
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\bin\Debug\netcoreapp3.1\CompoundInterestCalculations.deps.json
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\bin\Debug\netcoreapp3.1\CompoundInterestCalculations.runtimeconfig.json
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\bin\Debug\netcoreapp3.1\CompoundInterestCalculations.runtimeconfig.dev.json
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\bin\Debug\netcoreapp3.1\CompoundInterestCalculations.dll
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\bin\Debug\netcoreapp3.1\CompoundInterestCalculations.pdb
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\obj\Debug\netcoreapp3.1\CompoundInterestCalculations.AssemblyInfoInputs.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\obj\Debug\netcoreapp3.1\CompoundInterestCalculations.AssemblyInfo.cs
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\obj\Debug\netcoreapp3.1\CompoundInterestCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\obj\Debug\netcoreapp3.1\CompoundInterestCalculations.dll
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\obj\Debug\netcoreapp3.1\CompoundInterestCalculations.pdb
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\obj\Debug\netcoreapp3.1\CompoundInterestCalculations.genruntimeconfig.cache
+C:\Users\Arpita Nayak\source\repos\SimpleInterestcalculation\CompoundInterestCalculations\obj\Debug\netcoreapp3.1\CompoundInterestCalculations.csprojAssemblyReference.cache
